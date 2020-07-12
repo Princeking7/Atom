@@ -1,0 +1,29 @@
+#head{background-color: green;
+    width: 100%;
+    height: 30px;
+    color: white;
+}
+
+form{
+    width: 30%;
+    box-shadow: 0 0 3px rgba(110, 105, 105, 0.9);
+    height: 1000px;
+    
+}
+#profile{
+    background-color:lightgray;
+    height: 60px;
+   
+}
+input{width: 100%;
+    height: 40px;
+    box-sizing: border-box;
+    padding: 25px 25px 25px 75px;
+    
+}
+
+img{
+    border-radius: 50%;
+    max-width: 300px;;
+    max-height: 300px;
+}
